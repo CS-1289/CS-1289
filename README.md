@@ -1,7 +1,10 @@
-# Hi there! 👋 I'm Chandana S
+  # Hi there! 👋 I'm Chandana S
+I'm a passionate Computer Science Student with a strong interest in  Machine Learning, Image processing, NLP and Web Development, passionate about learning and solving real world problems.
 
-🚀 Passionate about AI, ML, and Web Development  
 💡 Exploring Generative AI, GANs, and NLP  
+
+## 📫Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandana-s-01a337263) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/CS-1289)
 
 ## 🛠 Tech Stack  
 
@@ -17,8 +20,5 @@
 ### **Version Control & Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-1289&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CS-1289&show_icons=true&theme=radical)
-
-📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandana-s-01a337263) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/CS-1289)
+## 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-1289&layout=compact&theme=radical) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CS-1289&show_icons=true&theme=radical)
